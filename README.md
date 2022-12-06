@@ -1,7 +1,7 @@
 <img align="right" width="40" src="https://user-images.githubusercontent.com/87017154/205991589-15d22443-689f-47e6-a7bb-a267716ecc60.png" alt="emojicool"/>
 
 <img align="left" width="40" src="https://user-images.githubusercontent.com/87017154/205975400-7940b983-3506-4956-ad73-5fe218f30140.gif" alt="emojicool"/>
-   <h1>Hi, I'am DANIEL👋👨‍💻</h1>
+   <h1> Hi, I'am DANIEL👋👨‍💻</h1>
   
 <br>
 
@@ -50,9 +50,22 @@
 ###  You can find me 🌐:
 - [Twitter](https://twitter.com/_danielndong)
 - [LinkedIn](https://www.linkedin.com/in/danielndong/)
-- [GitHub](https://github.com/DanielNdong/))
+- [GitHub](https://github.com/DanielNdong/)
 
+<br>
+- 💬 Ask me about **React, Angular, Javascript**
 
+- 📫 How to reach me **aquilinondongbiang@gmail.com**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/bits_danidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bits_danidev" height="30" width="40" /></a>
+<a href="https://twitter.com/_danielndong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_danielndong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel aquilino ndong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel aquilino ndong" height="30" width="40" /></a>
+<a href="https://fb.com/daniel aquilino ndong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel aquilino ndong" height="30" width="40" /></a>
+</p>
+
+<br>
 ###  Code is love 🚀🚀🚀
 
     
