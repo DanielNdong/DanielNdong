@@ -1,12 +1,10 @@
-<img align="right" width="40" src="https://user-images.githubusercontent.com/87017154/205991589-15d22443-689f-47e6-a7bb-a267716ecc60.png" alt="emojicool"/>
 
- <h1> Hi, I'am DANIEL👋👨‍💻</h1>
-  
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=000&background=FFFF&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Welcome+to+my+README;am+Daniel+Aquilino+Ndong;Junior+Fullstack+Developer;" alt="Typing SVG" /></a> 
 <br>
 
-### Welcome to my repository 🌐:
+<img align="right" width="40" src="https://user-images.githubusercontent.com/87017154/205991589-15d22443-689f-47e6-a7bb-a267716ecc60.png" alt="emojicool"/>
 
-   <p>I'm Junior Fullstack Developer from Malabo, ❤Ecuatorial Guinea</p>
    <br>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
