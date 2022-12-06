@@ -1,8 +1,29 @@
-### 
+<img align="right" width="40" src="https://user-images.githubusercontent.com/87017154/205991589-15d22443-689f-47e6-a7bb-a267716ecc60.png" alt="emojicool"/>
 
-<img align="left" width="40" src="https://user-images.githubusercontent.com/87017154/205975400-7940b983-3506-4956-ad73-5fe218f30140.gif" alt="emojicool"></img>
-   <h1>Hi, I'am DANIEL👋💻👨</h1>
+<img align="left" width="40" src="https://user-images.githubusercontent.com/87017154/205975400-7940b983-3506-4956-ad73-5fe218f30140.gif" alt="emojicool"/>
+   <h1>Hi, I'am DANIEL👋👨‍💻</h1>
+  
 <br>
+
+### Welcome to my repository 🌐:
+
+   <p>I'm Junior Fullstack Developer from Malabo, ❤Guinea Ecuatorial</p>
+   <br>
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+ <br>
 
    ```javascript 
                                                                                                         \\\\\\\\\\\\\
@@ -24,48 +45,16 @@
     databases: ["MySql", "sqlite"],                                                       | ,','  __/ |             /   |
   },                                                                         ____________|','   ///_/-------------/    |
                                                                                |===========,'
-                                                                                         
-
    ```  
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+   
+###  You can find me 🌐:
+- [Twitter](https://twitter.com/_danielndong)
+- [LinkedIn](https://www.linkedin.com/in/danielndong/)
+- [GitHub](https://github.com/DanielNdong/))
 
-   Me paso de 10 a 12 horas delante de la maquina aprendiendo nuevos códigos, tecnologias, viendo tutoriales sobre como hacer un codigo en particular y como optimizarlo. Todo eso junto a pequeños proyectos personales que realizo para ponerlos en mi portfolio y mejorar mi marca personal. El poco tiempo que me queda lo dedico a ver series y animes que me encantan. Soy Junior Software Developer con muchas ganas de seguir creciendo en la programacion y el desarrollo de software.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+###  Code is love 🚀🚀🚀
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
+    
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
