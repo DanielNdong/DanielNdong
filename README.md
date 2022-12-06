@@ -53,9 +53,11 @@
 - [GitHub](https://github.com/DanielNdong/)
 
 <br>
+
 - 💬 Ask me about **React, Angular, Javascript**
 
 - 📫 How to reach me **aquilinondongbiang@gmail.com**
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
