@@ -7,7 +7,7 @@
 
 ### Welcome to my repository 🌐:
 
-   <p>I'm Junior Fullstack Developer from Malabo, ❤Guinea Ecuatorial</p>
+   <p>I'm Junior Fullstack Developer from Malabo, ❤Ecuatorial Guine</p>
    <br>
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
