@@ -1,5 +1,8 @@
-### Hi, I'am DANIEL👋💻
-<img src="https://user-images.githubusercontent.com/87017154/205966710-ced3e511-175a-4eb5-b7c8-b8495452717c.gif" width="250" height="100"></img>
+### 
+
+<img align="left" width="40" src="https://user-images.githubusercontent.com/87017154/205975400-7940b983-3506-4956-ad73-5fe218f30140.gif" alt="emojicool"></img>
+   <h1>Hi, I'am DANIEL👋💻👨</h1>
+<br>
 
    ```javascript 
                                                                                                         \\\\\\\\\\\\\
