@@ -2,8 +2,6 @@
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=FFFF&background=inherit&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Welcome+to+my+README;I`am+Daniel;Junior+Fullstack+Developer;" alt="Typing SVG" /></a>   
 
-<img align="right" width="40" src="https://user-images.githubusercontent.com/87017154/205991589-15d22443-689f-47e6-a7bb-a267716ecc60.png" alt="emojicool"/>
-
    <br>
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -30,7 +28,7 @@
                                                                              ---------,','  |         (,    ||   //***/
   const Dani = {                                                                     ||    |          \\  ||||//''''|
     pronouns: "He" | "Him",                                                           ||    |           |||||||     _|
-      code: ["Javascript", "Java"],                                                   ||    |______      `````\____/ \
+      code: ["Javascript", "Java", PHP],                                              ||    |______      `````\____/ \
        askMeAbout: ["web dev", "tech", "app dev", "music",                            ||    |     ,|         _/_____/ \
        "anime", "one piece!"],                                                        ||  ,'    ,' |        /          |
        technologies: {                                                                ||,'    ,'   |       |         \  |
